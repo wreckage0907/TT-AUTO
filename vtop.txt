@@ -1,0 +1,358 @@
+Sl.No	Class Group	Course	L T P J C	Category	Course Option	Class Nbr	Slot -
+Venue	Faculty Details	Registered / Updated Date & Time	Attendance Date - Type	Status & Ref No
+1
+
+General (Semester)
+
+BCSE204L - Design and Analysis of Algorithms
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Discipline Core	
+Regular
+
+CH2023240502736
+
+B1+TB1 -
+
+
+AB2-207
+
+REVATHI A R -
+
+
+SCOPE
+
+05-Nov-2023 09:10
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+2
+
+General (Semester)
+
+BCSE204P - Design and Analysis of Algorithms Lab
+
+( Lab Only )
+
+0 0 2 0 1.0
+
+Discipline Core	
+Regular
+
+CH2023240502741
+
+L5+L6 -
+
+
+AB1-707
+
+REVATHI A R -
+
+
+SCOPE
+
+05-Nov-2023 09:10
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+3
+
+General (Semester)
+
+BCSE304L - Theory of Computation
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Discipline Core	
+Regular
+
+CH2023240502744
+
+D1+TD1 -
+
+
+AB2-207
+
+PADMA J -
+
+
+SCOPE
+
+05-Nov-2023 09:17
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+4
+
+General (Semester)
+
+BECE303L - VLSI System Design
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Discipline Core	
+Regular
+
+CH2023240501031
+
+F1+TF1 -
+
+
+AB2-206
+
+ANANIAH DURAI S -
+
+
+CNVD
+
+05-Nov-2023 09:17
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+5
+
+General (Semester)
+
+BECE303P - VLSI System Design Lab
+
+( Lab Only )
+
+0 0 2 0 1.0
+
+Discipline Core	
+Regular
+
+CH2023240502653
+
+L55+L56 -
+
+
+AB3-312
+
+ANANIAH DURAI S -
+
+
+CNVD
+
+05-Nov-2023 09:17
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+6
+
+General (Semester)
+
+BECM301L - Signal Processing
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Discipline Core	
+Regular
+
+CH2023240501066
+
+E1+TE1 -
+
+
+AB2-206
+
+SUCHETHA M -
+
+
+CHAIR
+
+05-Nov-2023 09:16
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+7
+
+General (Semester)
+
+BECM301P - Signal Processing Lab
+
+( Lab Only )
+
+0 0 2 0 1.0
+
+Discipline Core	
+Regular
+
+CH2023240501070
+
+L37+L38 -
+
+
+AB1-707
+
+SUCHETHA M -
+
+
+CHAIR
+
+05-Nov-2023 09:16
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+8
+
+General (Semester)
+
+BJAP101L - Japanese I
+
+( Theory Only )
+
+2 0 0 0 2.0
+
+Foundation Core - Humanities, Social Sciences and Management (LANGUAGE Basket)	
+Regular
+
+CH2023240501261
+
+G1 -
+
+
+AB2-401
+
+M JAYASHREE DASS -
+
+
+SAS
+
+05-Nov-2023 09:18
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+9
+
+General (Semester)
+
+BMAT201L - Complex Variables and Linear Algebra
+
+( Theory Only )
+
+3 1 0 0 4.0
+
+Foundation Core - Basic Sciences and Mathematics	
+Regular
+
+CH2023240500833
+
+C1+TC1+TCC1 -
+
+
+AB2-205
+
+NATHIYA N -
+
+
+SAS
+
+05-Nov-2023 09:03
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+10
+
+General (Semester)
+
+BSSC102N - Indian Constitution
+
+( Online Course )
+
+0 0 0 0 2.0
+
+Non-graded Core Requirement	
+Regular
+
+CH2023240502722
+
+NIL -
+
+
+NIL
+
+SHINSA P MATHEW -
+
+
+VITSOL
+
+05-Nov-2023 09:18
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+11
+
+General (Semester)
+
+BSTS102P - Quantitative Skills Practice II
+
+( Soft Skill )
+
+3 0 0 0 1.5
+
+Foundation Core - Humanities, Social Sciences and Management	
+Regular
+
+CH2023240500106
+
+A1+TA1 -
+
+
+AB2-207
+
+FACE (APT) -
+
+
+ACAD
+
+05-Nov-2023 09:05
+
+06-Nov-2023
+- Manual
+
+Registered and Approved
+Total Number Of Credits: 24.5
+THEORY	Start	08:00	08:55	09:50	10:45	11:40	12:35	Lunch	02:00	02:55	03:50	04:45	05:40	06:35
+End	08:50	09:45	10:40	11:35	12:30	01:25	Lunch	02:50	03:45	04:40	05:35	06:30	07:25
+LAB	Start	08:00	08:50	09:50	10:40	11:40	12:30	Lunch	02:00	02:50	03:50	04:40	05:40	06:30
+End	08:50	09:40	10:40	11:30	12:30	01:20	Lunch	02:50	03:40	04:40	05:30	06:30	07:20
+MON	THEORY	A1-BSTS102P-SS-AB2-207-ALL	F1-BECE303L-TH-AB2-206-ALL	D1-BCSE304L-TH-AB2-207-ALL	TB1-BCSE204L-TH-AB2-207-ALL	TG1	S11	Lunch	A2	F2	D2	TB2	TG2	S3
+LAB	L1	L2	L3	L4	L5-BCSE204P-LO-AB1-707-ALL	L6-BCSE204P-LO-AB1-707-ALL	Lunch	L31	L32	L33	L34	L35	L36
+TUE	THEORY	B1-BCSE204L-TH-AB2-207-ALL	G1-BJAP101L-TH-AB2-401-ALL	E1-BECM301L-TH-AB2-206-ALL	TC1-BMAT201L-TH-AB2-205-ALL	TAA1	-	Lunch	B2	G2	E2	TC2	TAA2	S1
+LAB	L7	L8	L9	L10	L11	L12	Lunch	L37-BECM301P-LO-AB1-707-ALL	L38-BECM301P-LO-AB1-707-ALL	L39	L40	L41	L42
+WED	THEORY	C1-BMAT201L-TH-AB2-205-ALL	A1-BSTS102P-SS-AB2-207-ALL	F1-BECE303L-TH-AB2-206-ALL	TD1-BCSE304L-TH-AB2-207-ALL	TBB1	-	Lunch	C2	A2	F2	TD2	TBB2	S4
+LAB	L13	L14	L15	L16	L17	L18	Lunch	L43	L44	L45	L46	L47	L48
+THU	THEORY	D1-BCSE304L-TH-AB2-207-ALL	B1-BCSE204L-TH-AB2-207-ALL	G1-BJAP101L-TH-AB2-401-ALL	TE1-BECM301L-TH-AB2-206-ALL	TCC1-BMAT201L-TH-AB2-205-ALL	-	Lunch	D2	B2	G2	TE2	TCC2	S2
+LAB	L19	L20	L21	L22	L23	L24	Lunch	L49	L50	L51	L52	L53	L54
+FRI	THEORY	E1-BECM301L-TH-AB2-206-ALL	C1-BMAT201L-TH-AB2-205-ALL	TA1-BSTS102P-SS-AB2-207-ALL	TF1-BECE303L-TH-AB2-206-ALL	TDD1	S15	Lunch	E2	C2	TA2	TF2	TDD2	-
+LAB	L25	L26	L27	L28	L29	L30	Lunch	L55-BECE303P-LO-AB3-312-ALL	L56-BECE303P-LO-AB3-312-ALL	L57	L58	L59	L60
