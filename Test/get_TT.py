@@ -1,6 +1,8 @@
+from flask import Flask, render_template, request, send_file
 import json
 import re
 
+app = Flask(__name__)
 def read_raw_data(file_path):
     with open(file_path, "r") as f:
         return f.read()
