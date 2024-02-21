@@ -3,6 +3,7 @@ import json
 import re
 
 app = Flask(__name__)
+
 def read_raw_data(file_path):
     with open(file_path, "r") as f:
         return f.read()
@@ -76,29 +77,33 @@ def create_timetable(day_data, dic, timings):
         timetable.append(tt)
     return timetable
 
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        raw_data = request.form['raw_data']
+        course_data, timings_data = parse_course_data(raw_data)
+        
+        timings = read_timings("timings.json")
+        MON, TUE, WED, THU, FRI, SAT, SUN = parse_timings_data(timings_data)
+        
+        days = [MON, TUE, WED, THU, FRI, SAT, SUN]
+        timetable = {}
 
+        for day_name, day_data in zip(["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"], days):
+            if(day_data):
+                day_data[0] = day_data[0].partition("THEORY\t")[-1].split("\t")
+                day_data[1] = day_data[1].partition("LAB\t")[-1].split("\t")
+                day_data[0].remove("Lunch")
+                day_data[1].remove("Lunch")
 
+            timetable[day_name] = create_timetable(day_data, course_data, timings)
+
+        with open("wwi.json", "w") as json_file:
+            json.dump(timetable, json_file, indent=2)
+        
+        return send_file("wwi.json", as_attachment=True)
+
+    return render_template('index.html')
 
 if __name__ == "__main__":
-    raw_data = read_raw_data("vtop.txt")
-    course_data, timings_data = parse_course_data(raw_data)
-    
-    timings = read_timings("timings.json")
-    MON, TUE, WED, THU, FRI, SAT, SUN = parse_timings_data(timings_data)
-    
-    days = [MON, TUE, WED, THU, FRI, SAT, SUN]
-    timetable = {}
-
-    for day_name, day_data in zip(["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"], days):
-        if(day_data):
-            day_data[0] = day_data[0].partition("THEORY\t")[-1].split("\t")
-            day_data[1] = day_data[1].partition("LAB\t")[-1].split("\t")
-            day_data[0].remove("Lunch")
-            day_data[1].remove("Lunch")
-
-        timetable[day_name] = create_timetable(day_data, course_data, timings)
-
-    with open("wwi.json", "w") as json_file:
-        json.dump(timetable, json_file, indent=2)
-
-
+    app.run(debug=True)
