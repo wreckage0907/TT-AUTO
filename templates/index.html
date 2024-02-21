@@ -16,6 +16,16 @@
             color: #333;
             margin-top: 50px;
         }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+            margin-top: 20px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 20px;
+        }
         form {
             margin-top: 20px;
         }
@@ -49,7 +59,14 @@
 </head>
 <body>
     <h1>Time Table Automation</h1>
-    
+    <p>
+        <strong>How to Use:</strong><br>
+        1. Go to VTOP > Time Table<br>
+        2. Select Sl.no to L94 and Copy it<br>
+        3. Paste in the text box<br>
+        4. Select semester StartDate and EndDate<br>
+        5. Click Submit
+    </p>
     <form action="/" method="post">
         <label for="raw_data">Paste your time table:</label><br>
         <textarea id="raw_data" name="raw_data" rows="10" cols="50"></textarea><br><br>

@@ -1,0 +1,227 @@
+{
+  "MON": [
+    [
+      {
+        "Title": "Quantitative Skills Practice II",
+        "Location": "AB2-207",
+        "Description": "FACE (APT) (BSTS102P)",
+        "Start": "08:00",
+        "End": "08:50"
+      },
+      {
+        "Title": "VLSI System Design",
+        "Location": "AB2-206",
+        "Description": "ANANIAH DURAI S (BECE303L)",
+        "Start": "08:55",
+        "End": "09:45"
+      },
+      {
+        "Title": "Theory of Computation",
+        "Location": "AB2-207",
+        "Description": "PADMA J (BCSE304L)",
+        "Start": "09:50",
+        "End": "10:40"
+      },
+      {
+        "Title": "Design and Analysis of Algorithms",
+        "Location": "AB2-207",
+        "Description": "REVATHI A R (BCSE204L)",
+        "Start": "10:45",
+        "End": "11:35"
+      }
+    ],
+    [
+      {
+        "Title": "Design and Analysis of Algorithms Lab",
+        "Location": "AB1-707",
+        "Description": "REVATHI A R (BCSE204P)",
+        "Start": "11:40",
+        "End": "12:30"
+      },
+      {
+        "Title": "Design and Analysis of Algorithms Lab",
+        "Location": "AB1-707",
+        "Description": "REVATHI A R (BCSE204P)",
+        "Start": "12:30",
+        "End": "13:20"
+      }
+    ]
+  ],
+  "TUE": [
+    [
+      {
+        "Title": "Design and Analysis of Algorithms",
+        "Location": "AB2-207",
+        "Description": "REVATHI A R (BCSE204L)",
+        "Start": "08:00",
+        "End": "08:50"
+      },
+      {
+        "Title": "Japanese I",
+        "Location": "AB2-401",
+        "Description": "M JAYASHREE DASS (BJAP101L)",
+        "Start": "08:55",
+        "End": "09:45"
+      },
+      {
+        "Title": "Signal Processing",
+        "Location": "AB2-206",
+        "Description": "SUCHETHA M (BECM301L)",
+        "Start": "09:50",
+        "End": "10:40"
+      },
+      {
+        "Title": "Complex Variables and Linear Algebra",
+        "Location": "AB2-205",
+        "Description": "NATHIYA N (BMAT201L)",
+        "Start": "10:45",
+        "End": "11:35"
+      }
+    ],
+    [
+      {
+        "Title": "Signal Processing Lab",
+        "Location": "AB1-707",
+        "Description": "SUCHETHA M (BECM301P)",
+        "Start": "14:00",
+        "End": "14:50"
+      },
+      {
+        "Title": "Signal Processing Lab",
+        "Location": "AB1-707",
+        "Description": "SUCHETHA M (BECM301P)",
+        "Start": "14:50",
+        "End": "15:40"
+      }
+    ]
+  ],
+  "WED": [
+    [
+      {
+        "Title": "Complex Variables and Linear Algebra",
+        "Location": "AB2-205",
+        "Description": "NATHIYA N (BMAT201L)",
+        "Start": "08:00",
+        "End": "08:50"
+      },
+      {
+        "Title": "Quantitative Skills Practice II",
+        "Location": "AB2-207",
+        "Description": "FACE (APT) (BSTS102P)",
+        "Start": "08:55",
+        "End": "09:45"
+      },
+      {
+        "Title": "VLSI System Design",
+        "Location": "AB2-206",
+        "Description": "ANANIAH DURAI S (BECE303L)",
+        "Start": "09:50",
+        "End": "10:40"
+      },
+      {
+        "Title": "Theory of Computation",
+        "Location": "AB2-207",
+        "Description": "PADMA J (BCSE304L)",
+        "Start": "10:45",
+        "End": "11:35"
+      }
+    ],
+    []
+  ],
+  "THU": [
+    [
+      {
+        "Title": "Theory of Computation",
+        "Location": "AB2-207",
+        "Description": "PADMA J (BCSE304L)",
+        "Start": "08:00",
+        "End": "08:50"
+      },
+      {
+        "Title": "Design and Analysis of Algorithms",
+        "Location": "AB2-207",
+        "Description": "REVATHI A R (BCSE204L)",
+        "Start": "08:55",
+        "End": "09:45"
+      },
+      {
+        "Title": "Japanese I",
+        "Location": "AB2-401",
+        "Description": "M JAYASHREE DASS (BJAP101L)",
+        "Start": "09:50",
+        "End": "10:40"
+      },
+      {
+        "Title": "Signal Processing",
+        "Location": "AB2-206",
+        "Description": "SUCHETHA M (BECM301L)",
+        "Start": "10:45",
+        "End": "11:35"
+      },
+      {
+        "Title": "Complex Variables and Linear Algebra",
+        "Location": "AB2-205",
+        "Description": "NATHIYA N (BMAT201L)",
+        "Start": "11:40",
+        "End": "12:30"
+      }
+    ],
+    []
+  ],
+  "FRI": [
+    [
+      {
+        "Title": "Signal Processing",
+        "Location": "AB2-206",
+        "Description": "SUCHETHA M (BECM301L)",
+        "Start": "08:00",
+        "End": "08:50"
+      },
+      {
+        "Title": "Complex Variables and Linear Algebra",
+        "Location": "AB2-205",
+        "Description": "NATHIYA N (BMAT201L)",
+        "Start": "08:55",
+        "End": "09:45"
+      },
+      {
+        "Title": "Quantitative Skills Practice II",
+        "Location": "AB2-207",
+        "Description": "FACE (APT) (BSTS102P)",
+        "Start": "09:50",
+        "End": "10:40"
+      },
+      {
+        "Title": "VLSI System Design",
+        "Location": "AB2-206",
+        "Description": "ANANIAH DURAI S (BECE303L)",
+        "Start": "10:45",
+        "End": "11:35"
+      }
+    ],
+    [
+      {
+        "Title": "VLSI System Design Lab",
+        "Location": "AB3-312",
+        "Description": "ANANIAH DURAI S (BECE303P)",
+        "Start": "14:00",
+        "End": "14:50"
+      },
+      {
+        "Title": "VLSI System Design Lab",
+        "Location": "AB3-312",
+        "Description": "ANANIAH DURAI S (BECE303P)",
+        "Start": "14:50",
+        "End": "15:40"
+      }
+    ]
+  ],
+  "SAT": [
+    [],
+    []
+  ],
+  "SUN": [
+    [],
+    []
+  ]
+}
