@@ -98,10 +98,10 @@ def index():
 
             timetable[day_name] = create_timetable(day_data, course_data, timings)
 
-        with open("wwi.json", "w") as json_file:
+        with open("vtop.json", "w") as json_file:
             json.dump(timetable, json_file, indent=2)
         
-        return send_file("wwi.json", as_attachment=True)
+        return send_file("vtop.json", as_attachment=True)
 
     return render_template('index.html')
 
